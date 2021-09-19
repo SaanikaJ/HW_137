@@ -1,0 +1,12 @@
+body{
+    background-image:url("background.jpeg");
+    background-size:cover;
+    font-size:24;
+    font-family:'Times New Roman', Times, serif;
+}
+
+canvas{
+    margin-top:160px;
+    box-shadow:10px 10px 10px palevioletred; 
+    border-radius:10px;
+}
